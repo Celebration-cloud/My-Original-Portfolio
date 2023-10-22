@@ -1,0 +1,24 @@
+.conUs{
+    padding: 20px;
+    text-align: left;
+}
+.inTouch form input{
+    color: black;
+}
+.inTouch form .mess{
+    margin-top: -100px;
+}
+.support{
+    width: auto;
+}
+.time{
+    font-weight: 100;
+}
+.message{
+    height: 150px;
+}
+@media (max-width: 770px) {
+    .support{
+        padding-bottom: 30px;
+    }
+}

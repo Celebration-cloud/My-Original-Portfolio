@@ -1,0 +1,23 @@
+.skillBody{
+    padding: 20px;
+}
+.fa-envelope{
+    padding-right: 10px;
+}
+@media (max-width: 770px) {
+    .ourSkill{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    .ourSkill .col{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .ourSkill .col p{
+        font-weight: 100;
+    }
+    .inMind{
+        font-weight: 100;
+    }
+}

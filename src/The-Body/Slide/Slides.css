@@ -1,0 +1,8 @@
+.carousel-caption h5{
+    font: 100px/1 'Open Sans', sans-serif;
+}
+@media (max-width: 770px) {
+    .carousel-caption h5{
+    font: 40px/1 'Open Sans', sans-serif;
+}
+}

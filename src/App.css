@@ -1,8 +1,32 @@
 #root {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  margin: 0;
+  padding: 0;
   text-align: center;
+  user-select: none;
+}
+form{
+  text-align: left;
+}
+.but{
+  padding: 1.5px;
+  background-color: #888;
+}
+ul li{
+  list-style-type: none;
+}
+li a{
+  color: rgb(136, 151, 163);
+}
+label{
+  margin: 5px;
+}
+input{
+  background-color: rgb(255, 255, 255) ;
+  width: 100%;
+  padding: 5px;
+  background-image: transparent;
+  border: solid black 0.5px ;
 }
 
 .logo {

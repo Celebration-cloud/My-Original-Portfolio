@@ -1,0 +1,28 @@
+.remark{
+    background-image: url(../../../public/download.jpeg);
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.remarkImg{
+    background-image: transparent;
+
+}
+
+.remImg{
+    display: none;
+}
+.countUp{
+    padding: 50px;
+}
+.number{
+    font-size: 600%;
+}
+@media (max-width: 426px) {
+    .remImg{
+        display: block !important ;
+    }
+    .inner{
+    margin-top: -250px;
+}
+}
