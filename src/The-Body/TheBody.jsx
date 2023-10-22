@@ -1,5 +1,6 @@
 import AboutUs from "./About-Us/AboutUs";
 import ContactUs from "./Contact-Us/ContactUs";
+import OurServices from "./Our-Services/OurServices";
 import OurSkill from "./Our-Skills/OurSkill";
 import Remark from "./Remark/Remark";
 import OurTeam from "./The-Team/OurTeam";
@@ -18,7 +19,7 @@ function TheBody() {
         <OurTeam/>
         <OurSkill/>
         <Remark/>
-        <OurServices />
+        <OurServices/>
         <h4 id="scrollspyHeading3">Portfolio</h4>
         <p>...</p>
         <ContactUs/>
