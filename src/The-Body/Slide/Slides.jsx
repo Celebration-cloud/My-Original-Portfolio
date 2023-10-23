@@ -10,7 +10,7 @@ function Slides() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src="../public/sea-minimalist-wallpaper-7680x4320_56.jpg"
+              src="../../../public/sea-minimalist-wallpaper-7680x4320_56.jpg"
               className="d-block w-100 h-100"
               alt=""
             />
@@ -20,7 +20,7 @@ function Slides() {
           </div>
           <div className="carousel-item">
             <img
-              src="../public/Astronaut.jpg"
+              src="../../../public/Astronaut.jpg"
               className="d-block w-100 h-100"
               alt=""
             />
@@ -30,7 +30,7 @@ function Slides() {
           </div>
           <div className="carousel-item">
             <img
-              src="../public/snow-mountain-night-wallpaper-3840x2160_54.jpg"
+              src="../../../public/snow-mountain-night-wallpaper-3840x2160_54.jpg"
               className="d-block w-100 h-100"
               alt=""
             />

@@ -1,6 +1,3 @@
-import '../../../public/css/bootstrap.min.css'
-import '../../../public/js/jquery.js'
-import '../../../public/js/bootstrap.min.js'
 import './NavBar.css'
 function NavBar() {
   return (

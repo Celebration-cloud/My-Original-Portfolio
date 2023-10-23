@@ -12,7 +12,7 @@ function Group() {
         </div>
         <div className="content">
           <a href="#">
-            <span className="title">Ojinglulu Celebration</span>
+            <span className="title">Ojingulu Celebration</span>
           </a>
 
           <p className="desc">Web Developer</p>
