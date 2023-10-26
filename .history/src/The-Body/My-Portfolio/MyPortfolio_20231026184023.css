@@ -1,0 +1,23 @@
+.port{
+    display: flex;
+    flex-wrap: wrap;
+}
+.myWork{
+    width: 50%;
+    height: auto;
+    padding: 20px;
+}
+.myWork:hover{
+    background-color:#166990;
+    transition: 0.5s ease;
+}
+@media (max-width: 770px) {
+    .port{
+        flex-direction: column;
+    }
+    .myWork{
+    width: 50%;
+    height: auto;
+    padding: 20px;
+}
+}

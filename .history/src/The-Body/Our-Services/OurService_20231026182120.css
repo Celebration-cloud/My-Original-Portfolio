@@ -1,0 +1,18 @@
+.service{
+    display: ;
+    flex-wrap: wrap;
+}
+.serviceList{
+    flex-wrap: nowrap;
+}
+@media (max-width: 770px) {
+    .serviceList{
+    display: block;
+}
+}
+.service{
+    padding: 20px;
+}
+span{
+    padding-right: 5px;
+}

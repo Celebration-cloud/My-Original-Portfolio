@@ -1,0 +1,15 @@
+.serviceList{
+    display: flex;
+    flex: ;
+}
+@media (max-width: 770px) {
+    .serviceList{
+    display: block;
+}
+}
+.service{
+    padding: 20px;
+}
+span{
+    padding-right: 5px;
+}

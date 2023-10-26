@@ -1,0 +1,23 @@
+.port{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+    padding-top: 0px;
+}
+.myWork{
+    width: 50%;
+    height: auto;
+    padding: 0px;
+}
+.myWork:hover{
+    background-color:#166990;
+    transition: 0.5s ease;
+}
+@media (max-width: 770px) {
+    .myWork{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+}

@@ -1,0 +1,10 @@
+.port{
+    display: flex;
+    flex-wrap: ;
+}
+.myWork{
+    padding: 50px;
+}
+.myWork:hover{
+    background-color:#006491;
+}

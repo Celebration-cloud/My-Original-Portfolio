@@ -1,0 +1,12 @@
+.port{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+    gap: 30px;
+}
+.myWork{
+    width: 50%;
+    height: auto;
+    margin-top: 0px;
+}
