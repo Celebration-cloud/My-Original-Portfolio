@@ -21,10 +21,11 @@ function MyPortfolio() {
       <h4 id="scrollspyHeading3">Portfolio</h4>
       <br />
       <br />
+
       <div className="port row">
         {portfolioList.map((item) => (
           <Card className="port" key={item.id} sx={{ maxWidth: 350 }}>
-            <a href={item.link} target='_self'>
+            <a href={item.link} target='f'>
               <CardActionArea>
                 <CardMedia
                   component="img"

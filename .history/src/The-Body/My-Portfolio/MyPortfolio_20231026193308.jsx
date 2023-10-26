@@ -21,27 +21,29 @@ function MyPortfolio() {
       <h4 id="scrollspyHeading3">Portfolio</h4>
       <br />
       <br />
+
       <div className="port row">
         {portfolioList.map((item) => (
           <Card className="port" key={item.id} sx={{ maxWidth: 350 }}>
-            <a href={item.link} target='_self'>
+            <a>
               <CardActionArea>
-                <CardMedia
-                  component="img"
-                  width="100%"
-                  image={item.image}
-                  alt="green iguana"
-                />
-                <CardContent>
-                  <Typography gutterBottom variant="h5" component="div">
-                    {item.title}
-                  </Typography>
-                  <Typography variant="body2" color="text.secondary">
-                    {item.description}
-                  </Typography>
-                </CardContent>
-              </CardActionArea>
+              <CardMedia
+                component="img"
+                width="100%"
+                image={item.image}
+                alt="green iguana"
+              />
+              <CardContent>
+                <Typography gutterBottom variant="h5" component="div">
+                  {item.title}
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  {item.description}
+                </Typography>
+              </CardContent>
+            </CardActionArea>
             </a>
+            
           </Card>
         ))}
       </div>
