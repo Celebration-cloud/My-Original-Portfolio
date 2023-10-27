@@ -14,7 +14,8 @@ function AboutUs() {
       <br />
       <br />
       <button>
-        <a style={{color: "white"}} className='nav-link' href="#scrollspyHeading3"><i></i>OUR PORTFOLIO</a>
+        <a href="#scrollspyHeading3"></a>
+        <i></i>OUR PORTFOLIO
       </button>
       <br />
       <br />

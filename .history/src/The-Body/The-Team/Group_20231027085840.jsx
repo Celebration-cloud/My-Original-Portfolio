@@ -6,15 +6,19 @@ function Group() {
     <>
       <div className="card">
         <div className="image">
-          <img className="pro" src={profilePicture} alt="" />
+          <img
+            className="pro"
+            src={profilePicture}
+            alt=""
+          />
         </div>
         <div className="content">
           <a href="#">
             <span className="title">Ojingulu Celebration</span>
           </a>
           <p className="desc">Web Developer</p>
-          <button style={{ backgroundColor: "black" }} className="butt">
-            <a href={profileResume} download>
+          <button className="butt">
+            <a href={profileResume} style={{bac}} download>
               <p className="text">Download Resume</p>
               <div className="svg">
                 <svg

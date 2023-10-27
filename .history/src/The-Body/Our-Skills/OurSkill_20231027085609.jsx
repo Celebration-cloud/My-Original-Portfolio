@@ -16,7 +16,7 @@ function OurSkill() {
               tenetur eos quisquam cumque iste!
             </p>
             <button>
-              <a style={{color: "white"}} className='nav-link ' href="#scrollspyHeading4">
+              <a  className='nav-link ' href="#scrollspyHeading4">
                 <i className="fa-solid fa-envelope"></i>CONTACT US
               </a>
             </button>
