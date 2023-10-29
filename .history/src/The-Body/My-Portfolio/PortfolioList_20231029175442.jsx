@@ -21,9 +21,8 @@ const portfolioList = [
     id: uuid(),
     title: "Trip Add To List ",
     image: portfolio_3,
-    description:
-      "Ability to add items to the list, cross check, filter and delete them. With statistics included",
-    link: "https://trip-add-to-list.onrender.com",
+    description: "Ability to add items to the list, cross check, filter and delete them. With statistics included",
+    link: "https://e-commerce-product-page-t3zp.onrender.com/",
   },
 ];
 export default portfolioList;
