@@ -53,7 +53,7 @@ function ServiceList() {
             <span>
               <i className="fa-solid fa-cloud fa-1x"></i>
             </span>
-            Front-End Development
+            Front-E Development
           </h6>
           <br />
           <p>

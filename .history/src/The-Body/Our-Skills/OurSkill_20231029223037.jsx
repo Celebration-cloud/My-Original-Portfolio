@@ -139,7 +139,7 @@ function OurSkill() {
               <div
                 className="progress-bar"
                 role="progressbar"
-                style={{ width: "95%", backgroundColor: "black" }}
+                style={{ width: "%", backgroundColor: "black" }}
                 aria-valuenow="85"
                 aria-valuemin="0"
                 aria-valuemax="100"

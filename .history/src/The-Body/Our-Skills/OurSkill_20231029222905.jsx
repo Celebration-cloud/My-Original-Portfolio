@@ -133,18 +133,6 @@ function OurSkill() {
                 aria-valuemax="100"
               ></div>
             </div>
-            <br />
-            <h6>Adaptability to new technologies</h6>
-            <div className="progress">
-              <div
-                className="progress-bar"
-                role="progressbar"
-                style={{ width: "95%", backgroundColor: "black" }}
-                aria-valuenow="85"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
-            </div>
           </div>
         </div>
       </div>

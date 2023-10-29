@@ -134,12 +134,12 @@ function OurSkill() {
               ></div>
             </div>
             <br />
-            <h6>Adaptability to new technologies</h6>
+            <h6>Collaboration</h6>
             <div className="progress">
               <div
                 className="progress-bar"
                 role="progressbar"
-                style={{ width: "95%", backgroundColor: "black" }}
+                style={{ width: "100%", backgroundColor: "black" }}
                 aria-valuenow="85"
                 aria-valuemin="0"
                 aria-valuemax="100"

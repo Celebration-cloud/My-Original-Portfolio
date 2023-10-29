@@ -12,7 +12,7 @@ function Group() {
           <a href="#">
             <span className="title">Ojingulu Celebration</span>
           </a>
-          <p className="desc">Front-end Developer</p>
+          <p className="desc">Front-End Developer</p>
           <button style={{ backgroundColor: "black" }} className="butt">
             <a href={profileResume} download>
               <p className="text">Download Resume</p>

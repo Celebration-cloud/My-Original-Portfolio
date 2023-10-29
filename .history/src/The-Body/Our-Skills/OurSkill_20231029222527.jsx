@@ -16,11 +16,7 @@ function OurSkill() {
               tenetur eos quisquam cumque iste!
             </p>
             <button>
-              <a
-                style={{ color: "white" }}
-                className="nav-link "
-                href="#scrollspyHeading4"
-              >
+              <a style={{color: "white"}} className='nav-link ' href="#scrollspyHeading4">
                 <i className="fa-solid fa-envelope"></i>CONTACT US
               </a>
             </button>
@@ -98,48 +94,12 @@ function OurSkill() {
               ></div>
             </div>
             <br />
-            <h6>Git</h6>
+            <h6>G</h6>
             <div className="progress">
               <div
                 className="progress-bar"
                 role="progressbar"
                 style={{ width: "85%", backgroundColor: "black" }}
-                aria-valuenow="85"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
-            </div>
-            <br />
-            <h6>Cross-browser compatibility and debugging</h6>
-            <div className="progress">
-              <div
-                className="progress-bar"
-                role="progressbar"
-                style={{ width: "90%", backgroundColor: "black" }}
-                aria-valuenow="85"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
-            </div>
-            <br />
-            <h6>Collaboration</h6>
-            <div className="progress">
-              <div
-                className="progress-bar"
-                role="progressbar"
-                style={{ width: "100%", backgroundColor: "black" }}
-                aria-valuenow="85"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
-            </div>
-            <br />
-            <h6>Adaptability to new technologies</h6>
-            <div className="progress">
-              <div
-                className="progress-bar"
-                role="progressbar"
-                style={{ width: "95%", backgroundColor: "black" }}
                 aria-valuenow="85"
                 aria-valuemin="0"
                 aria-valuemax="100"

@@ -23,7 +23,7 @@ function ServiceList() {
             <span>
               <i className="fa-solid fa-cloud fa-1x"></i>
             </span>
-            Front-End Development
+            Fre Development
           </h6>
           <br />
           <p>
@@ -38,7 +38,7 @@ function ServiceList() {
             <span>
               <i className="fa-solid fa-cloud fa-1x"></i>
             </span>
-            Front-End Development
+            Web Development
           </h6>
           <br />
           <p>
@@ -53,7 +53,7 @@ function ServiceList() {
             <span>
               <i className="fa-solid fa-cloud fa-1x"></i>
             </span>
-            Front-End Development
+            Web Development
           </h6>
           <br />
           <p>

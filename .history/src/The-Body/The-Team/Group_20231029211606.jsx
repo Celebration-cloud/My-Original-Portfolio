@@ -1,6 +1,6 @@
 import './Group.css'
 import profilePicture from "../../../public/WIN_20230907_17_39_13_Pro.jpg";
-import profileResume from '../../../public/Resume-Celebration-Ojingulu-Original.pdf'
+import profileResume from '../../../public/'
 function Group() {
   return (
     <>
@@ -12,7 +12,7 @@ function Group() {
           <a href="#">
             <span className="title">Ojingulu Celebration</span>
           </a>
-          <p className="desc">Front-end Developer</p>
+          <p className="desc">Web Developer</p>
           <button style={{ backgroundColor: "black" }} className="butt">
             <a href={profileResume} download>
               <p className="text">Download Resume</p>
