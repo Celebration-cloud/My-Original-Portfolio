@@ -2,8 +2,8 @@
 function LastFooter() {
   return (
     <>
-      <div className="last row">
-        <div className="rights col w-auto ">
+      <div className="last row ">
+        <div className="rights col w-100 ">
           <p>
             © 2023 <b>CELEBRATION</b> - All Rights Reserved by Me.
           </p>

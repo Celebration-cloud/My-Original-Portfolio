@@ -1,4 +1,3 @@
-import portfolioList from './PortfolioList';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
@@ -14,13 +13,12 @@ function MyPortfolio() {
       <br />
       <div className="port row">
         {portfolioList.map((item) => (
-          <Card className="port" key={item.id} sx={{ maxWidth: 250 }}>
+          <Card className="port" key={item.id} sx={{ maxWidth: 350 }}>
             <a href={item.link} target='_self' style={{color: "black"}}>
               <CardActionArea>
                 <CardMedia
                   component="img"
                   width="100%"
-                  height="200px"
                   image={item.image}
                   alt="green iguana"
                 />

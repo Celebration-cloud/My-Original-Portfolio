@@ -23,7 +23,7 @@
     .last{
         font-size: small;
         display: block;
-        position: absolute;
+        width: 100;
     }
     .rights{
     text-align: center;

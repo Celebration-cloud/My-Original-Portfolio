@@ -2,8 +2,7 @@
     border: none;
 }
 .navbar{
-    padding: 10px;
-    position: fixed;
+    position: sticky;
 }
 .navbar-nav{
     margin-left: auto;

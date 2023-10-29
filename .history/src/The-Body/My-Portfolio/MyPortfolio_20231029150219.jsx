@@ -14,13 +14,13 @@ function MyPortfolio() {
       <br />
       <div className="port row">
         {portfolioList.map((item) => (
-          <Card className="port" key={item.id} sx={{ maxWidth: 250 }}>
+          <Card className="port" key={item.id} sx={{ maxWidth: 350 }}>
             <a href={item.link} target='_self' style={{color: "black"}}>
               <CardActionArea>
                 <CardMedia
                   component="img"
                   width="100%"
-                  height="200px"
+                  hei
                   image={item.image}
                   alt="green iguana"
                 />

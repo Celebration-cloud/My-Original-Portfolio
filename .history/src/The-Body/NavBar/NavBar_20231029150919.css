@@ -3,7 +3,7 @@
 }
 .navbar{
     padding: 10px;
-    position: fixed;
+    position: stc;
 }
 .navbar-nav{
     margin-left: auto;

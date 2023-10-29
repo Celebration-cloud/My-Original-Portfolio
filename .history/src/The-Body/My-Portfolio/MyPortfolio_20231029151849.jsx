@@ -20,7 +20,7 @@ function MyPortfolio() {
                 <CardMedia
                   component="img"
                   width="100%"
-                  height="200px"
+                  height="50"
                   image={item.image}
                   alt="green iguana"
                 />
