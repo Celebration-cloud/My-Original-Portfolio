@@ -1,0 +1,14 @@
+.navbar-toggler{
+    border: none;
+}
+.navbar{
+    top: 0;
+    padding: 10px;
+    mask-position: 0%;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-toggler-icon{
+    background-color: aliceblue;
+}
