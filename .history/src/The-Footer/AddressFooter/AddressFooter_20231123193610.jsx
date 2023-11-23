@@ -25,7 +25,7 @@ function AddressFooter() {
               <a href="https://wa.me/2349014194307">WhatsApp</a>
             </li>
             <li className="linkMedia">
-              <a href="https://www.linkedin.com/in/celebration-ojingulu-45b495246/">
+              <a href="6">
                 Linkedin
               </a>
             </li>
